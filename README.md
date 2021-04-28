@@ -1,5 +1,5 @@
-<a href="https://congchu.github.io/portfolio-1"><img src="https://img.shields.io/badge/Porfoilo-web-blue"/></a>
-<a href="https://www.notion.so/FullStack-Programmer-12a087212d21471abfce21cb3c347298"><img src="https://img.shields.io/badge/Porfoilo-Docs-blue"/></a>
+<a href="https://congchu.github.io/jeongkoo-porfolio"><img src="https://img.shields.io/badge/WebPorfoilo-link-blue"/></a>
+<a href="https://www.notion.so/FullStack-Programmer-12a087212d21471abfce21cb3c347298"><img src="https://img.shields.io/badge/DocsPorfoilo-link-blue"/></a>
 ![https://komarev.com/ghpvc/?username=congchu](https://komarev.com/ghpvc/?username=congchu)
 
 
@@ -29,6 +29,9 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=rstudio)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 <br/>
+
+
+
 
 ### 💻 &nbsp;GitHub Analytics
 
