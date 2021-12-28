@@ -3,11 +3,11 @@
 ![https://komarev.com/ghpvc/?username=congchu](https://komarev.com/ghpvc/?username=congchu)
 
 
-## 👋 &nbsp;풀스택 개발자 정쿠입니다. ☺️
+## 👋 &nbsp;풀스택 개발자 구민정입니다. ☺️
 
 ✔️ &nbsp;스타트업 환경에 맞는 빠른 주기 개발, 특히 애자일 환경에 익숙합니다.\
-✔️ &nbsp;이슈 트래킹, 배포 히스토리 등의 기술 문서 작성을 중요하게 생각합니다.\
-✔️ &nbsp;개발자의 편한 개발보다 사용자의 편의를 더 중요하게 생각합니다.\
+✔️ &nbsp;명확하고 이해하기 쉬운 코딩 스타일을 만들기 위해 노력합니다.\
+✔️ &nbsp;기술을 공부하고 공유하며 함께 성장하는 삶을 지향합니다.\
 ✔️ &nbsp;저에 대해 궁금하시다면, <a href="https://www.notion.so/cucus/FullStack-Programmer-12a087212d21471abfce21cb3c347298">제 포트폴리오</a>를 방문해주세요.
 
 
@@ -28,3 +28,13 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=rstudio)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 <br/>
+
+### 💻 &nbsp;GitHub Analytics
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=congchu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/congchu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=congchu&layout=compact&theme=algolia)](https://github.com/congchu/github-readme-stats)
+
+
+### 🤝🏻 &nbsp;Contact
+<a href="mailto:cookie00421@gmail.com"><img src="https://img.shields.io/badge/-cookie00421@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/jeongkooo"><img src="https://img.shields.io/badge/-@jeongkooo_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
