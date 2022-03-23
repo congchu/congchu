@@ -1,5 +1,4 @@
-<a href="https://congchu.github.io/portfolio-1"><img src="https://img.shields.io/badge/Porfoilo-web-blue"/></a>
-<a href="https://www.notion.so/FullStack-Programmer-12a087212d21471abfce21cb3c347298"><img src="https://img.shields.io/badge/Porfoilo-Docs-blue"/></a>
+<a href="https://www.notion.so/cucus/d5ecae2649a3484e9b236d79cd7d7fe4"><img src="https://img.shields.io/badge/Porfoilo-Docs-blue"/></a>
 ![https://komarev.com/ghpvc/?username=congchu](https://komarev.com/ghpvc/?username=congchu)
 
 
@@ -8,7 +7,7 @@
 ✔️ &nbsp;스타트업 환경에 맞는 빠른 주기 개발, 특히 애자일 환경에 익숙합니다.\
 ✔️ &nbsp;명확하고 이해하기 쉬운 코딩 스타일을 만들기 위해 노력합니다.\
 ✔️ &nbsp;기술을 공부하고 공유하며 함께 성장하는 삶을 지향합니다.\
-✔️ &nbsp;저에 대해 궁금하시다면, <a href="https://www.notion.so/cucus/FullStack-Programmer-12a087212d21471abfce21cb3c347298">제 포트폴리오</a>를 방문해주세요.
+✔️ &nbsp;저에 대해 궁금하시다면, <a href="https://www.notion.so/cucus/d5ecae2649a3484e9b236d79cd7d7fe4">제 포트폴리오</a>를 방문해주세요.
 
 
 ### 🛠 &nbsp;Technical Skills
