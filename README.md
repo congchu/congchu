@@ -34,6 +34,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=congchu&layout=compact&theme=algolia)](https://github.com/congchu/github-readme-stats)
 
 
-### 🤝🏻 &nbsp;Contact
+### 🤝🏻 &nbsp;Links
+<a href="https://velog.io/@cookie004"><img src="https://img.shields.io/badge/-Velog-96f2d7?style=flat&logo=Velog&logoColor=white"/></a>
 <a href="mailto:cookie00421@gmail.com"><img src="https://img.shields.io/badge/-cookie00421@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/jeongkooo"><img src="https://img.shields.io/badge/-@jeongkooo_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+
