@@ -8,11 +8,12 @@
 ✔️ &nbsp;**세상을 이롭게 만드는 서비스**에 관심이 많습니다.\
 ✔️ &nbsp;스타트업 환경에 맞는 **빠른 주기 개발**, **애자일 환경**에 익숙합니다.\
 ✔️ &nbsp;기술을 꾸준히 공부하고 **지식을 공유**하며 **함께 성장**하는 삶을 지향합니다.\
-✔️ &nbsp;저에 대해 궁금하시다면 [웹 프로필](https://congchu.github.io/game-style-profile-page) 또는 [노션 이력서](https://www.notion.so/cucus/FullStack-d5ecae2649a3484e9b236d79cd7d7fe4)를 방문해주세요.
+✔️ &nbsp;저에 대해 궁금하시다면 [웹 프로필](https://minjeong.kurie-lab.com/) 또는 [LikedIn](https://www.linkedin.com/in/koominjeong/)를 방문해주세요.
 
 
 ### 🛠 &nbsp;Technical Skills
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;\
@@ -22,8 +23,6 @@
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=rstudio)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 <br/>
 
