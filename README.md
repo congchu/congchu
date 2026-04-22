@@ -1,26 +1,39 @@
+<a href="https://congchu.github.io/game-style-profile-page"><img src="https://img.shields.io/badge/Porfoilo-Web-blue"/></a>
+<a href="https://www.notion.so/cucus/d5ecae2649a3484e9b236d79cd7d7fe4"><img src="https://img.shields.io/badge/Porfoilo-Notion-blue"/></a>
 ![https://komarev.com/ghpvc/?username=congchu](https://komarev.com/ghpvc/?username=congchu)
 
-## 정쿠 (구민정)
 
-N잡러·프리랜서를 위한 수익화 실험 플랫폼 **[실험마켓](https://tryoutmarket.co)** 을 만들고 있습니다.
+## 👋 &nbsp;풀스택 개발자 구민정입니다. ☺️
 
-작게 실험하고, 빠르게 확인하고, 진짜 되는 걸 키우는 방식을 좋아합니다.
+✔️ &nbsp;**세상을 이롭게 만드는 서비스**에 관심이 많습니다.\
+✔️ &nbsp;스타트업 환경에 맞는 **빠른 주기 개발**, **애자일 환경**에 익숙합니다.\
+✔️ &nbsp;기술을 꾸준히 공부하고 **지식을 공유**하며 **함께 성장**하는 삶을 지향합니다.\
+✔️ &nbsp;저에 대해 궁금하시다면 [웹 프로필](https://minjeong.kurie-lab.com/) 또는 [LikedIn](https://www.linkedin.com/in/koominjeong/)를 방문해주세요.
 
-### 지금 하고 있는 것
-- 실험마켓 캠프 운영 — AI로 포트폴리오 만들기, 창업 아이디어 검증 챌린지
-- 콘텐츠 기반 수익화 실험
-- Claude Code + Codex 활용 바이브 코딩
 
-### 기술 스택
+### 🛠 &nbsp;Technical Skills
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;\
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;\
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+<br/>
 
-### 링크
-<a href="https://tryoutmarket.co"><img src="https://img.shields.io/badge/-실험마켓-ff6633?style=flat&logoColor=white"/></a>
-<a href="https://camp.tryoutmarket.co"><img src="https://img.shields.io/badge/-실험마켓_캠프-3b82f6?style=flat&logoColor=white"/></a>
+### 💻 &nbsp;GitHub Analytics
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=congchu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/congchu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=congchu&layout=compact&theme=algolia)](https://github.com/congchu/github-readme-stats)
+
+
+### 🤝🏻 &nbsp;Links
+<a href="https://velog.io/@cookie004"><img src="https://img.shields.io/badge/-Velog-96f2d7?style=flat&logo=Velog&logoColor=white"/></a>
 <a href="mailto:cookie00421@gmail.com"><img src="https://img.shields.io/badge/-cookie00421@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/jeongkoo.dev"><img src="https://img.shields.io/badge/-@jeongkoo.dev-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+
